@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -18,4 +20,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
