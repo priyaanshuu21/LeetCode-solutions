@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
