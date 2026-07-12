@@ -1,51 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
 
-        if (n < 3) {
-            return {};
-        }
+        vector<vector<int>> result;
+        int n = nums.size();
+        if(n < 3) return{};
 
         sort(nums.begin(), nums.end());
-        vector<vector<int>> result;
 
-        for (int k = 0; k < n - 2; k++) {
+        for(int i = 0; i < n-2; i++){
+            if(i > 0 && nums[i] == nums[i-1]) continue;   //continue means dont go down. iterate i with one more step.
 
-            if (k > 0 && nums[k] == nums[k - 1]) {
-                continue;
+            int j = i+1;
+            int k = n-1;
+
+            while(j < k){
+                int sum = nums[i] + nums[j] + nums[k];
+
+            if(sum < 0){
+                j++;
             }
-
-            int i = k + 1;
-            int j = n - 1;
-
-            while (i < j) {
-
-                if (nums[i] + nums[j] == -nums[k]) {
-
-                    result.push_back({nums[k], nums[i], nums[j]});
-
-                    i++;
-                    j--;
-
-                    // Skip duplicates
-                    while (i < j && nums[i] == nums[i - 1]) {
-                        i++;
-                    }
-
-                    while (i < j && nums[j] == nums[j + 1]) {
-                        j--;
-                    }
-                }
-                else if (nums[i] + nums[j] < -nums[k]) {
-                    i++;
-                }
-                else {
-                    j--;
-                }
+            else if(sum > 0){
+                k--;
+            }
+            else{
+                result.push_back({nums[i], nums[j], nums[k]}); //returning answer in sorted order.
+                j++;
+                k--;
+                while(j < k && nums[j] == nums[j-1]) j++;
+                while(j < k && nums[k] == nums[k+1]) k--;
+            }
             }
         }
-
         return result;
     }
 };
