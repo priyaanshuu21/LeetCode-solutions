@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
