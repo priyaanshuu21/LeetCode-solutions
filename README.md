@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3099-harshad-number](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3099-harshad-number) |
 ## Monotonic Stack
 |  |
 | ------- |
