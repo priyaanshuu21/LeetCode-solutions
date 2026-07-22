@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
