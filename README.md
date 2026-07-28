@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0015-3sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
