@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -42,6 +43,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0567-permutation-in-string) |
 ## Counting Sort
