@@ -22,6 +22,7 @@
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0875-koko-eating-bananas) |
+| [3731-find-missing-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0567-permutation-in-string) |
+| [3731-find-missing-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
