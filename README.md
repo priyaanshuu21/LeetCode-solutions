@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0567-permutation-in-string) |
@@ -158,6 +159,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
