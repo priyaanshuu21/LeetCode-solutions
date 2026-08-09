@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
