@@ -49,6 +49,7 @@
 | [0076-minimum-window-substring](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0567-permutation-in-string) |
@@ -123,6 +124,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0155-min-stack) |
 ## Math
 |  |
@@ -163,6 +165,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -172,4 +175,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
