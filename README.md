@@ -184,13 +184,16 @@
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
