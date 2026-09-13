@@ -119,6 +119,7 @@
 | [0020-valid-parentheses](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0739-daily-temperatures) |
@@ -189,6 +190,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -206,6 +208,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -216,6 +219,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
