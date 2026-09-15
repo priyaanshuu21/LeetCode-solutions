@@ -195,6 +195,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -215,6 +216,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -226,6 +228,7 @@
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
@@ -233,6 +236,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0226-invert-binary-tree) |
 ## Iterator
 |  |
 | ------- |
