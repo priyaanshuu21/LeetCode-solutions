@@ -189,6 +189,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -236,6 +239,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0199-binary-tree-right-side-view) |
