@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -47,6 +48,7 @@
 | [0036-valid-sudoku](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0146-lru-cache) |
@@ -65,6 +67,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -193,6 +196,7 @@
 | [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -222,6 +226,7 @@
 | [0100-same-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/priyaanshuu21/LeetCode-solutions/tree/master/0173-binary-search-tree-iterator) |
